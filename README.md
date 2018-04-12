@@ -8,7 +8,7 @@ Languages
 This document is available in the following languages:
 
 - English
-- [한국어]()
+- [한국어](https://github.com/hardboiled65/Unicode-TLDR/blob/master/language/ko/Standard.md)
 
 Translation
 -----------
